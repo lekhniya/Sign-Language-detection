@@ -5,7 +5,7 @@ It trains a Random Forest classifier, evaluates accuracy, and visualizes results
 
 ## How to run
 1. Install requirements: `pip install -r requirements.txt`
-2. Open notebook: `notebooks/SignLanguage.ipynb`
+2. Open notebook: `notebooks/SignLang.ipynb`
 3. Download train/test CSVs locally (not included in repo)
 
 ## Libraries
