@@ -1,0 +1,13 @@
+# Ignore dataset CSVs
+train.csv
+test.csv
+*.csv
+data/
+
+# Ignore saved models
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
