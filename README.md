@@ -1,6 +1,6 @@
-# Sign Language Detection (A–J)
+# Sign Language Detection (A–Z)
 
-This project uses machine learning to predict letters (A–J) from hand signs using the Sign Language MNIST dataset.  
+This project uses machine learning to predict letters (A–Z) from hand signs using the Sign Language MNIST dataset.  
 It trains a Random Forest classifier, evaluates accuracy, and visualizes results with sample images and a confusion matrix.
 
 ## How to run
